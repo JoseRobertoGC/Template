@@ -73,26 +73,51 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
 ## ✍️ Authors <a name = "authors"></a>
 <table>
 <tr>
-  <th> José Roberto Garduño Cerecedo </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Jose Roberto [@JoseRobertoGC]</a> </th>
-  <th> Tecnológico de Monterrey </th>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/luis@tec.jpg" alt="Luis José González" width="80px" height="65px"> </th>
-  <th> <a href="https://github.com/luisjglz" rel="noopener">Luis José González [@luisjglz]</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/Luis.jpeg" alt="Luis Yépez Pérez" width="80px" height="65px"> </th>
-  <th> <a href="https://www.researchgate.net/profile/Luis-Yepez-Perez" rel="noopener">Luis Yépez Pérez</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
 </tr>
 
 <tr>
-  <th> <img src="fig/marcondes.jpg" alt="Cesar A. C. Marcondes" width="60px" height="45px"> </th>
-  <th> <a href="https://github.com/cmarcond" rel="noopener">Cesar A. C. Marcondes [@cmarcond]</a> </th>
-  <th> <img src="fig/ITA_logo.png" alt="Instituto Tecnológico de Aeronáutica" width="80px" height="45px"> </th>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
 </tr>
+
+<tr>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
+</tr>
+
+<tr>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
+</tr>
+
+<tr>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
+</tr>
+
+<tr>
+  <th> Name </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> School </th>
+</tr>
+
 </table>
