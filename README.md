@@ -74,49 +74,49 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
 <table>
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
 <tr>
   <th> Name </th>
-  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@JoseRobertoGC]</a> </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Name [@]</a> </th>
   <th> School </th>
 </tr>
 
