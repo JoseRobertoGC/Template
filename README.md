@@ -73,9 +73,9 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
 ## ✍️ Authors <a name = "authors"></a>
 <table>
 <tr>
-  <th> Jose Roberto Garduno </th>
+  <th> Jose Roberto Garduño Cerecedo </th>
   <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Jose Roberto [@JoseRobertoGC]</a> </th>
-  <th> Tecnologico de Monterrey </th>
+  <th> Tecnológico de Monterrey </th>
 </tr>
 
 <tr>
