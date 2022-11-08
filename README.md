@@ -1,270 +1,146 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
-<a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
+<p align="center">
+  <a href="" rel="noopener">
+ <img src="fig/iot-icon.png" alt="GSL Final Course - ITA & Tecnológico de Monterrey" width="100"></a>
+</p>
 
+<h2 align="center">GSL Final Course - ITA & Tecnológico de Monterrey</h2>
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
+![GitHub last commit](https://img.shields.io/github/last-commit/kabartsjc/gsl-iot)
+![GitHub issues](https://img.shields.io/github/issues/kabartsjc/gsl-iot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/kabartsjc/gsl-iot)
+[![License](https://img.shields.io/badge/license-GPL-blue.svg)](/LICENSE)
 </div>
 
 
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
-* [Malven's Grid Cheatsheet](https://grid.malven.co/)
-* [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
-* [Font Awesome](https://fontawesome.com)
-* [React Icons](https://react-icons.github.io/react-icons/search)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+## 📝 Table of Contents
+
+- [About the Project](#about)
+- [Scenario](#scenario_desc)
+- [Solution](SOLUTION_DESCRIPTION.md)
+- [Project Methodology](METHODOLOGY.md)
+- [Deliverables](DELIVERABLES.md)
+- [Schedule](#schedule)
+- [License](#license)
+- [Professors](#authors)
+- [Student Groups](STUDENT.md)
+
+## 🧐 About the Project <a name = "about"></a>
+
+The Internet of Things Implementation (TC1004B) is a course from [Tecnológico de Monterrey](https://www.tec.mx) based on the [TEC21 model](https://tec21connect.com/). It aims to introduce the main IoT foundations. For ten weeks, students design and implement a digital system prototype that can obtain data through sensors, process their information, and present them on an internet platform for later analysis and visualization. During the period, students will achieve the following skills:
+
+- Elaboration and development of digital systems.
+- Analysis, design, and development of databases.
+- Resource management of a computer system through the efficient use of resources.
+- Introduction to Interactive Design.
+- Processes and project management.
+- Analysis, design, and development of IoT systems.
+
+The course has six modules: Digital Systems, Database Design and Analysis, Resource Management of a Computer System; Introduction to Interactive Design; Project Management and Processes, and Internet of Things.
+
+This year the course will be performed inside the [Global Shared Learning Classroom]( https://global.tec.mx/en/global-shared-learning) program, an initiative of the Vice Rectory for International Affairs that promotes collaboration between students, professors, and international universities in a digital environment and with the use of technological tools. Global Shared Learning (GSL) is an opportunity to generate international experiences with meaningful learning.
+
+The partner university is the [Instituto Tecnológico de Aeronáutica](http://www.ita.br/), which is a public university institution linked to the Air Force Command and is in São José dos Campos (São Paulo). ITA was created in 1950 and is considered a reference center in engineering education in Brazil. It was inspired by MIT (Massachusetts Institute of Technology) in the United States. It was the embryo of companies such as Embraer, IACIT, and Avibras, which developed aircraft, advanced defense, and air traffic systems for governments worldwide.
+
+The collaboration focuses on developing the student’s sense of cooperation needed to solve a complex problem through a multicultural partnership. The implementation of GSL will happen in the implementation of the TC1004B “reto” project during the second part of the course (weeks 13 to 17). The selected scenario is a disaster situation (ex.: earthquake in Mexico and flooding in Brazil), a prevalent worldwide problem. In this scenario, you do not have telecommunication channels or any previous Command and Control (C2) system to provide rescue teams with essential communication (voice and data), planning, and execution services. Consequently, it is required to use the means existent in the community and by volunteers, for example, the use of drones to improve communication and support the identification of hazards.
+
+The sustainable development goal is the “Industry, Innovation, and Infrastructure” and “Sustainable Cities and Communities,” where the group will work to build a resilient infrastructure when there is a natural hazard.
+
+## 🏭 Scenario Description <a name = "scenario_desc"></a>
+
+[![IMAGE_ALT](https://img.youtube.com/vi/PPkjYf4rd_E/0.jpg)](https://www.youtube.com/embed/PPkjYf4rd_E)
+
+Every year, disasters and crises devastate people, communities, and entire societies worldwide. Worryingly, they are predicted to become more common in the future. Disasters can occur naturally (e.g., tornadoes, hurricanes, earthquakes, floods, wildfires, mudslides, or drought) or be human-caused (e.g., mass shootings, chemical spills, or terrorist attacks). Preparing for, responding to, and recovering from disasters and traumatic events is essential to individuals’ and communities' behavioral health.
+
+When people experience a disaster, they may experience a variety of reactions, many of which are natural responses to challenging situations. Most people show resilience after a disaster. Resilience is the ability to bounce back, cope with adversity, and endure demanding conditions. Thankfully, resilience in disaster recovery is ordinary, not extraordinary, and people regularly demonstrate this ability. Supportive resources to address stress and other hardships are a critical component of resilience.
+
+Like war, disasters are also much unstructured in scope. No one can predict the exact time and how a disaster will strike. Sometimes the local infrastructure is devasted, and there are no telecommunication resources available to provide the essential communication necessities, for example, providing means to the affected communities asking for help. Usually, [this type of situation requires a complete telecommunication infrastructure to provide Command and Control](https://www.tandfonline.com/doi/abs/10.1080/19393550903551843) to support the operations.
+
+We use a flooding scenario to support the course in the project development. Because the changes to our climate and environment are already contributing to the increased frequency, intensity, and unpredictability of severe weather events, what makes this type of disaster usually in tropical countries like [Brazil](https://www.theguardian.com/world/2022/may/31/dozens-dead-in-brazil-floods-and-landslides-with-many-more-missing) and [Mexico](https://mexiconewsdaily.com/news/from-drought-to-floods-heavy-rains-continue-across-the-country/), generating many victims and causing fatalities and incalculable losses (financial and social) for the population.
+
+<table>
+<tr>
+<th> <img src="fig/itajai.jpg" alt="Itajai (BR)"  width="500"></a> Itajaí (BR) </th>
+<th> <img src="fig/monterrey.jpg" alt="Monterrey (MEX)"  width="500">Monterrey (MEX)</a>  </th>
+</tr>
+</table>
+
+For example, in November of 2008, Santa Catarina, a state in the south of Brazil, had a period of heavy rainfall (20-23 November). The state had suffered constant rains for over two months, which turned the soil wet enough to cause a landslide during the storm that hit the state in late November. Around 60 towns and over 1.5 million people were affected. At least 128 people have been killed, with over 78,700 forced to evacuate their homes. A further 150,000 have been left without electricity, while water rationing is being carried out in at least one town due to purification problems. Several regions’ cities have become cut off due to floodwater and landslide debris. Water levels in the Vale do Itajaí have risen to eleven meters above normal.
+
+Because of the electrical blackout, many communities were left without communication, which made it difficult for people to call for help and inform where they were. It is the issue that our project will try to solve.
+
+[![IMAGE_ALT](https://img.youtube.com/vi/2RKeZk8qudA/0.jpg)](https://www.youtube.com/embed/2RKeZk8qudA)
+
+## ⏲️⏲️ Schedule <a name = "schedule"></a>
+
+<table style="border-collapse: collapse; width: 100%">
+      <tr>
+        <th colspan="3" style="border: 1px solid #dddddd; padding: 8px;">Project Schedule</th>
+      </tr>
+      <tr>
+        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Opening Class</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">1st Nov 2022 19:00 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Icebreaker</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 - Icebreaker Video</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 - Reply to the peers</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">4 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td rowspan="4" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Collaboration</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 – Project Setup</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">11 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 – Client & Edge Stage</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">18 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 3 – Cloud Stage</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">25 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 4 – Final Presentation</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">2 Dec 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Reflection</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Dec 2022 23:59 (GMT-5)</td>
+      </tr>
+    </table>
+
+## :memo: License <a name = "license"></a>
+
+This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## ✍️ Professors <a name = "authors"></a>
+<table>
+<tr>
+  <th> <img src="fig/barreto.png" alt="Alexandre Barreto" width="80px" height="45px"> </th>
+  <th> <a href="https://github.com/kabartsjc" rel="noopener">Alexandre Barreto [@kabartsjc]</a> </th>
+  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+</tr>
+
+<tr>
+  <th> <img src="fig/luis@tec.jpg" alt="Luis José González" width="80px" height="65px"> </th>
+  <th> <a href="https://github.com/luisjglz" rel="noopener">Luis José González [@luisjglz]</a> </th>
+  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+</tr>
+
+<tr>
+  <th> <img src="fig/Luis.jpeg" alt="Luis Yépez Pérez" width="80px" height="65px"> </th>
+  <th> <a href="https://www.researchgate.net/profile/Luis-Yepez-Perez" rel="noopener">Luis Yépez Pérez</a> </th>
+  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+</tr>
+
+<tr>
+  <th> <img src="fig/marcondes.jpg" alt="Cesar A. C. Marcondes" width="60px" height="45px"> </th>
+  <th> <a href="https://github.com/cmarcond" rel="noopener">Cesar A. C. Marcondes [@cmarcond]</a> </th>
+  <th> <img src="fig/ITA_logo.png" alt="Instituto Tecnológico de Aeronáutica" width="80px" height="45px"> </th>
+</tr>
+</table>
