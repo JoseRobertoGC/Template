@@ -15,6 +15,7 @@
 - [About the Project](#about)
 - [Scenario](#scenario_desc)
 - [License](#license)
+- [Authors](#authors)
 
 ## 🧐 About the Project <a name = "about"></a>
 
