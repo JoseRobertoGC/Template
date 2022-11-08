@@ -67,7 +67,7 @@ Because of the electrical blackout, many communities were left without communica
 
 ## :memo: License <a name = "license"></a>
 
-This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE.txt) para mais detalhes.
 
 ## ✍️ Authors <a name = "authors"></a>
 <table>
