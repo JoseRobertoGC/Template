@@ -95,3 +95,45 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
   <th> <img src="fig/ITA_logo.png" alt="Instituto Tecnológico de Aeronáutica" width="80px" height="45px"> </th>
 </tr>
 </table>
+
+## ⏲️⏲️ Schedule <a name = "schedule"></a>
+
+<table style="border-collapse: collapse; width: 100%">
+      <tr>
+        <th colspan="3" style="border: 1px solid #dddddd; padding: 8px;">Project Schedule</th>
+      </tr>
+      <tr>
+        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Opening Class</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">1st Nov 2022 19:00 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td rowspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Icebreaker</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 - Icebreaker Video</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 - Reply to the peers</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">4 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td rowspan="4" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Collaboration</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 – Project Setup</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">11 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 – Client & Edge Stage</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">18 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 3 – Cloud Stage</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">25 Nov 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 4 – Final Presentation</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">2 Dec 2022 23:59 (GMT-5)</td>
+      </tr>
+      <tr>
+        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Reflection</td>
+        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Dec 2022 23:59 (GMT-5)</td>
+      </tr>
+    </table>
