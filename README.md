@@ -72,9 +72,9 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
 ## ✍️ Professors <a name = "authors"></a>
 <table>
 <tr>
-  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Jose Roberto Garduno </th>
-  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">A01656294@tec.mx </th>
-  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Tecnologico de Monterrey </th>
+  <th> Jose Roberto Garduno </th>
+  <th> <a href="https://github.com/JoseRobertoGC" rel="noopener">Jose Roberto [@JoseRobertoGC]</a> </th>
+  <th> Tecnologico de Monterrey </th>
 </tr>
 
 <tr>
