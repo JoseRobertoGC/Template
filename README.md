@@ -52,8 +52,8 @@ We use a flooding scenario to support the course in the project development. Bec
 
 <table>
 <tr>
-<th> <img src="fig/itajai.jpg" alt="Itajai (BR)"  width="500"></a> Itajaí (BR) </th>
-<th> <img src="fig/monterrey.jpg" alt="Monterrey (MEX)"  width="500">Monterrey (MEX)</a>  </th>
+<th> <img src="image/itajai.jpg" alt="Itajai (BR)"  width="500"></a> Itajaí (BR) </th>
+<th> <img src="image/monterrey.jpg" alt="Monterrey (MEX)"  width="500">Monterrey (MEX)</a>  </th>
 </tr>
 </table>
 
