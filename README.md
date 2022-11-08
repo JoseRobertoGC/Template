@@ -14,13 +14,7 @@
 
 - [About the Project](#about)
 - [Scenario](#scenario_desc)
-- [Solution](SOLUTION_DESCRIPTION.md)
-- [Project Methodology](METHODOLOGY.md)
-- [Deliverables](DELIVERABLES.md)
-- [Schedule](#schedule)
 - [License](#license)
-- [Professors](#authors)
-- [Student Groups](STUDENT.md)
 
 ## 🧐 About the Project <a name = "about"></a>
 
@@ -68,47 +62,7 @@ Because of the electrical blackout, many communities were left without communica
 
 [![IMAGE_ALT](https://img.youtube.com/vi/2RKeZk8qudA/0.jpg)](https://www.youtube.com/embed/2RKeZk8qudA)
 
-## ⏲️⏲️ Schedule <a name = "schedule"></a>
 
-<table style="border-collapse: collapse; width: 100%">
-      <tr>
-        <th colspan="3" style="border: 1px solid #dddddd; padding: 8px;">Project Schedule</th>
-      </tr>
-      <tr>
-        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Opening Class</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">1st Nov 2022 19:00 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td rowspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Icebreaker</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 - Icebreaker Video</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Nov 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 - Reply to the peers</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">4 Nov 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td rowspan="4" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Collaboration</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 1 – Project Setup</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">11 Nov 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 2 – Client & Edge Stage</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">18 Nov 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 3 – Cloud Stage</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">25 Nov 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Step 4 – Final Presentation</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">2 Dec 2022 23:59 (GMT-5)</td>
-      </tr>
-      <tr>
-        <td colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Reflection</td>
-        <td style="border: 1px solid #dddddd; text-align: left; padding: 8px;">3 Dec 2022 23:59 (GMT-5)</td>
-      </tr>
-    </table>
 
 ## :memo: License <a name = "license"></a>
 
