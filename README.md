@@ -72,9 +72,9 @@ This project is under the GPL license. Veja o arquivo [LICENSE](LICENSE) para ma
 ## ✍️ Professors <a name = "authors"></a>
 <table>
 <tr>
-  <th> <img src="fig/barreto.png" alt="Alexandre Barreto" width="80px" height="45px"> </th>
-  <th> <a href="https://github.com/kabartsjc" rel="noopener">Alexandre Barreto [@kabartsjc]</a> </th>
-  <th> <img src="fig/tec_logo.png" alt="Tecnológico de Monterrey" width="100px" height="45px"> </th>
+  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Jose Roberto Garduno </th>
+  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">A01656294@tec.mx </th>
+  <th> colspan="2" style="border: 1px solid #dddddd; text-align: left; padding: 8px;">Tecnologico de Monterrey </th>
 </tr>
 
 <tr>
